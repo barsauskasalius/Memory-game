@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(135, 246, 237);
+}
+.grid {
+    width: 400px;
+    height: 308px;
+    border: solid black 1px;
+    background-color: rgb(0, 0, 0);
+}
